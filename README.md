@@ -101,7 +101,7 @@ Las relaciones se visualizan frente a `Rango_notas` y `G3`, explorando tendencia
 
 ## 📦 requirements.txt
 
-![requirements.txt](requirements.txt)
+[requirements.txt](requirements.txt)
 
 ---
 
