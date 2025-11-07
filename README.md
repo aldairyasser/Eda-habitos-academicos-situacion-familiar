@@ -84,29 +84,34 @@ Las relaciones se visualizan frente a `Rango_notas` y `G3`, explorando tendencia
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/aldairyasser/EDA-HABITOS-ACADEMICOS-SITUACION-FAMILIAR.git
-   cd EDA_Estudiante
    ```
 
 2. **Instalar dependencias:**
    ```bash
    pip install -r requirements.txt
    ```
+[requirements.txt](requirements.txt) --> Librerias y versión que he usado
 
-3. **Ejecutar la aplicación:**
+1. **Navegas hasta el directorio:**
+   ```bash
+   cd (Nombre del directorio)
+   ```
+   
+2. **Ejecutar la aplicación:**
    ```bash
    streamlit run main.py
    ```
 
 ---
 
-## 📦 requirements.txt
-
-[requirements.txt](requirements.txt)
-
----
-
 ## 🧩 Conclusión general
 
-El análisis revela que el **rendimiento académico no depende de un solo factor**, sino de la interacción entre **hábitos personales y entorno familiar**.  
+Como conclusión el análisis revela que el **rendimiento académico no depende de un solo factor**, sino de la interacción entre **hábitos personales y entorno familiar**.  
 
-Los estudiantes con **hábitos equilibrados** (estudio constante, salud mental estable, ocio moderado) y **apoyo familiar positivo** tienden a obtener **mejores resultados académicos**.
+Los estudiantes de **resultados académicos bajos**, no solo es el resultado de unos malos hábitos, sino que en general la relación familiar, así como su entorno no es el más favorable.
+
+Los estudiantes con **resultados promedioss**, tienen un estudio constante, salud mental estable y un ocio moderado, así como un **apoyo familiar regular**, permitiendoles obtener mayor nota a la larga.
+
+Por último y más sorprendente, los estudiantes con **resultados académicos sobresalientes**, su rendimiento no dependia de la relación con los padres, del tutor legal o del apoyo familiar, sino del nivel educativo de la madre, así como de la salud metal del estudiante y el tiempo que dedicaba a los hábitos con mayor correlación a la nota final.
+
+
