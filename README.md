@@ -1,6 +1,10 @@
 
 # 🎓 Análisis Exploratorio de Datos: Hábitos Académicos y Situación Familiar
 
+## 👨‍💻 Despliegue en web 👩‍💻
+
+https://eda-habitos-academicos-situacion-familiar.streamlit.app/
+
 ## 📘 Descripción general
 
 Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** sobre el comportamiento académico de los estudiantes, integrando dos ejes principales:
